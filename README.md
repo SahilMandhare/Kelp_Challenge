@@ -1,11 +1,11 @@
 # Kelp_Challenge
 
-#Developer : Sahil Mandhare
+# Developer : Sahil Mandhare
 
 # Task
 Bank Transaction
 
-#Steps : 
+# Steps : 
 * Download MongoDB SSL for Connectivity.
 * Install Modules.
 * Then write : 
