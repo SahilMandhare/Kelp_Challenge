@@ -8,7 +8,7 @@ Bank Transaction
 # Steps : 
 * Download MongoDB SSL for Connectivity.
 * Install Modules.
-* Then write : 
+* Then write on Terminal : 
  > python main.py CREATE ACC001 KELP
  
  > python main.py DEPOSIT ACC001 10000 
